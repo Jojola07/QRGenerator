@@ -1,0 +1,1 @@
+QRCode Generator location: QRGenerator/dist/main.exe
